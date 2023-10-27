@@ -34,10 +34,9 @@
 // Execute `rustlings hint tests7` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
 
 fn main() {}
-
+// 判断时间戳
 #[cfg(test)]
 mod tests {
     use super::*;
